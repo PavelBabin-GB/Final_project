@@ -673,7 +673,6 @@ body {
 @media (max-width: 768px) {
 
   .header {
-    /*width: 375px;*/
     padding-left: calc(50% - 384px);
     padding-right: calc(50% - 384px);
   }
@@ -779,7 +778,6 @@ body {
 
   .header__row {
     flex-direction: column-reverse;
-    /*max-width: 375px;*/
     padding-top: 29px;
     padding-left: calc(50% - 384px);
     padding-right: calc(50% - 384px);
@@ -841,9 +839,7 @@ body {
   }
 
   .main {
-    /*max-width: 375px;*/
     padding: 0;
-   
   }
 
   .features__title {
@@ -1040,7 +1036,6 @@ body {
   }
 
   .footer {
-    /*width: 375px;*/
     padding-left: calc(50% - 384px);
     padding-right: calc(50% - 384px);
     height: 97px;
@@ -1066,5 +1061,4 @@ body {
     height: 24.05px;
     margin-left: 18px;
   }
-
 }
